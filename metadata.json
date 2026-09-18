@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Hunter",
+  "description": "초등 5학년을 위한 보물찾기형 영문법 학습 게임",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
